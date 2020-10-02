@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/tests/C/NumberProperties/NumberProperties.h
+stdio.h
+-
+
+/media/cigan/Personal/tests/C/NumberProperties/NumberPropertiesImplementation.h
+NumberProperties.h
+/media/cigan/Personal/tests/C/NumberProperties/NumberProperties.h
+
+/media/cigan/Personal/tests/C/NumberProperties/NumberPropertiesUnitTests.h
+NumberPropertiesImplementation.h
+/media/cigan/Personal/tests/C/NumberProperties/NumberPropertiesImplementation.h
+
+/media/cigan/Personal/tests/C/NumberProperties/main.c
+NumberPropertiesUnitTests.h
+/media/cigan/Personal/tests/C/NumberProperties/NumberPropertiesUnitTests.h
+
