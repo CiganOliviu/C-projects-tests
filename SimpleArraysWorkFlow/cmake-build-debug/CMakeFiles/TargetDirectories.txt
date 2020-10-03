@@ -1,0 +1,3 @@
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/cmake-build-debug/CMakeFiles/SimpleArraysWorkFlow.dir

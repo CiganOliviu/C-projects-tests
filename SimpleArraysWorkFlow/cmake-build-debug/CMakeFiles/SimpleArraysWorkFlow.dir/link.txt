@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SimpleArraysWorkFlow.dir/main.c.o  -o SimpleArraysWorkFlow 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/ArrayStruct.h
+
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/ArraysWorkFlow.h
+ArrayStruct.h
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/ArrayStruct.h
+
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/main.c
+stdio.h
+-
+stdlib.h
+-
+ArraysWorkFlow.h
+/media/cigan/Personal/tests/C/SimpleArraysWorkFlow/ArraysWorkFlow.h
+
