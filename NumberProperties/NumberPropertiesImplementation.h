@@ -10,17 +10,17 @@
 int ValidateFactorialValue(int IndexOfNumber) {
 
     if (IndexOfNumber == 0)
-        return 1;
+        return 0;
 
     if (IndexOfNumber == 1)
-        return 1;
+        return 0;
 
-    return 0;
+    return 1;
 }
 
 int GetFactorialValue(int IndexOfNumber) {
 
-    if (!ValidateFibonacciValue(IndexOfNumber))
+    if (ValidateFactorialValue(IndexOfNumber))
         return 0;
 
     return IndexOfNumber * GetFactorialValue(IndexOfNumber - 1);
@@ -29,17 +29,17 @@ int GetFactorialValue(int IndexOfNumber) {
 int ValidateFibonacciValue(int IndexOfNumber) {
 
     if (IndexOfNumber == 1)
-        return 1;
+        return 0;
 
     if (IndexOfNumber == 2)
-        return 1;
+        return 0;
 
-    return 0;
+    return 1;
 }
 
 int GetFibonacciValue(int IndexOfNumber) {
 
-    if (!ValidateFibonacciValue(IndexOfNumber))
+    if (ValidateFibonacciValue(IndexOfNumber))
         return 0;
 
     return GetFibonacciValue(IndexOfNumber - 1) + GetFibonacciValue(IndexOfNumber - 2);
