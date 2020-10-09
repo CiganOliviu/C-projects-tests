@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ArrayStruct.h
+
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/InterchangeMaxWithMinArrayDef.h
+ArrayStruct.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ArrayStruct.h
+
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/main.c
+stdio.h
+-
+stdlib.h
+-
+InterchangeMaxWithMinArrayDef.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/InterchangeMaxWithMinArrayDef.h
+
