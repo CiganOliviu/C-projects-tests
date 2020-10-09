@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/ArrayStruct.h
+
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/MaximumSumSequenceDef.h
+ArrayStruct.h
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/ArrayStruct.h
+
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/main.c
+stdio.h
+-
+stdlib.h
+-
+MaximumSumSequenceDef.h
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/MaximumSumSequenceDef.h
+
