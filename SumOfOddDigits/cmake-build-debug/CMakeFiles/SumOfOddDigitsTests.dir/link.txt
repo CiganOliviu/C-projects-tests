@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SumOfOddDigitsTests.dir/UnitTesting.c.o  -o SumOfOddDigitsTests 
