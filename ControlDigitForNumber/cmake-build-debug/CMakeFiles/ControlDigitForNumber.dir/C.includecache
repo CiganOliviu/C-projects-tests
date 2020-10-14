@@ -6,7 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/main.c
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/CoreDependencies/CoreDependencies.h
 stdio.h
 -
+stdlib.h
+-
+assert.h
+-
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/ProblemSolution/ProblemSolutionDef.h
+../Validations/ValidationsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Validations/ValidationsImplementation.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/ProblemSolution/ProblemSolutionImplementation.h
+ProblemSolutionDef.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/ProblemSolution/ProblemSolutionDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Testing/TestingDef.h
+../ProblemSolution/ProblemSolutionImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/ProblemSolution/ProblemSolutionImplementation.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Testing/TestingImplementation.h
+TestingDef.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Testing/TestingDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Validations/ValidationsDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/CoreDependencies/CoreDependencies.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Validations/ValidationsImplementation.h
+ValidationsDef.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Validations/ValidationsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/main.c
+Testing/TestingImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/ControlDigitForNumber/Testing/TestingImplementation.h
 
