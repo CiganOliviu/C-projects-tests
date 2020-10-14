@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ArrayPrimeNumbersGenerator.dir/main.c.o  -o ArrayPrimeNumbersGenerator 
