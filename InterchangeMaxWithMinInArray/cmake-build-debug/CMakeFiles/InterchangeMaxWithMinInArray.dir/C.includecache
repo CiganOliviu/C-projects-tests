@@ -14,11 +14,19 @@ stdlib.h
 assert.h
 -
 
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsDef.h
+../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataStructures/DataStructures.h
-../CoreDependencies/CoreDependencies.h
-/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/CoreDependencies/CoreDependencies.h
+
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsImplementation.h
+DataSetsDef.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataStructures/DataStructures.h
 
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ProblemSolution/ProblemSolutionDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/CoreDependencies/CoreDependencies.h
 ../Validations/ValidationsImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/Validations/ValidationsImplementation.h
 ../DataStructures/DataStructures.h
@@ -33,12 +41,16 @@ ProblemSolutionDef.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ProblemSolution/ProblemSolutionImplementation.h
 ../UnitTestingSupport/UnitTestingSupportImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/UnitTestingSupport/UnitTestingSupportImplementation.h
+../DataSets/DataSetsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsImplementation.h
 
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/Testing/TestingImplementation.h
 TestingDef.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/Testing/TestingDef.h
 
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/UnitTestingSupport/UnitTestingSupportDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/CoreDependencies/CoreDependencies.h
 ../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataStructures/DataStructures.h
 

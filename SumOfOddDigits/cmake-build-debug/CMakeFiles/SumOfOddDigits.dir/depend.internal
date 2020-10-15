@@ -3,9 +3,9 @@
 
 CMakeFiles/SumOfOddDigits.dir/main.c.o
  /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/CoreDependencies/CoreDependencies.h
+ /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsDef.h
+ /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
- /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IODef.h
- /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IOImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/ProblemSolution/ProblemSolutionDef.h
  /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/ProblemSolution/ProblemSolutionImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/Testing/TestingDef.h

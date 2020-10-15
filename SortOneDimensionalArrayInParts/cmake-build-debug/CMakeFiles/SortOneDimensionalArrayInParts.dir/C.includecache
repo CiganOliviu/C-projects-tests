@@ -14,21 +14,19 @@ stdlib.h
 assert.h
 -
 
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataStructures/DataStructures.h
-../CoreDependencies/CoreDependencies.h
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/CoreDependencies/CoreDependencies.h
-
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IODef.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsDef.h
 ../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataStructures/DataStructures.h
-../Validations/ValidationsImplementation.h
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/Validations/ValidationsImplementation.h
 
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IOImplementation.h
-IODef.h
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IODef.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsImplementation.h
+DataSetsDef.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataStructures/DataStructures.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/ProblemSolution/ProblemSolutionDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/CoreDependencies/CoreDependencies.h
 ../Validations/ValidationsImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/Validations/ValidationsImplementation.h
 ../DataStructures/DataStructures.h
@@ -43,14 +41,16 @@ ProblemSolutionDef.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/ProblemSolution/ProblemSolutionImplementation.h
 ../UnitTestingSupport/UnitTestingSupportImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/UnitTestingSupport/UnitTestingSupportImplementation.h
-../IO/IOImplementation.h
-/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IOImplementation.h
+../DataSets/DataSetsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsImplementation.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/Testing/TestingImplementation.h
 TestingDef.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/Testing/TestingDef.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/UnitTestingSupport/UnitTestingSupportDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/CoreDependencies/CoreDependencies.h
 ../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataStructures/DataStructures.h
 

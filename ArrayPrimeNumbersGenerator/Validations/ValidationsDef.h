@@ -1,0 +1,11 @@
+//
+// Created by cigan on 14.10.2020.
+//
+
+#ifndef ARRAYPRIMENUMBERSGENERATOR_VALIDATIONSDEF_H
+#define ARRAYPRIMENUMBERSGENERATOR_VALIDATIONSDEF_H
+
+void ValidateValue(int Value);
+void ValidatePrimeValue(int Value);
+
+#endif //ARRAYPRIMENUMBERSGENERATOR_VALIDATIONSDEF_H

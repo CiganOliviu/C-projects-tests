@@ -3,9 +3,9 @@
 
 CMakeFiles/SortOneDimensionalArrayInParts.dir/main.c.o
  /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/CoreDependencies/CoreDependencies.h
+ /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsDef.h
+ /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataSets/DataSetsImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/DataStructures/DataStructures.h
- /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IODef.h
- /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/IO/IOImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/ProblemSolution/ProblemSolutionDef.h
  /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/ProblemSolution/ProblemSolutionImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/SortOneDimensionalArrayInParts/Testing/TestingDef.h

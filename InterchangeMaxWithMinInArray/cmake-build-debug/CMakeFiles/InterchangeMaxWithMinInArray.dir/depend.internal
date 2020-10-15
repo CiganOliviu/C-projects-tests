@@ -3,6 +3,8 @@
 
 CMakeFiles/InterchangeMaxWithMinInArray.dir/main.c.o
  /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/CoreDependencies/CoreDependencies.h
+ /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsDef.h
+ /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataSets/DataSetsImplementation.h
  /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/DataStructures/DataStructures.h
  /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ProblemSolution/ProblemSolutionDef.h
  /media/cigan/Personal/Projects/C-projects-tests/InterchangeMaxWithMinInArray/ProblemSolution/ProblemSolutionImplementation.h

@@ -14,11 +14,17 @@ stdlib.h
 assert.h
 -
 
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataSets/DataSetsImplementation.h
+../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataStructures/DataStructures.h
-../CoreDependencies/CoreDependencies.h
-/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/CoreDependencies/CoreDependencies.h
+
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataStructures/DataStructures.h
 
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/ProblemSolution/ProblemSolutionDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/CoreDependencies/CoreDependencies.h
+../DataStructures/DataStructures.h
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataStructures/DataStructures.h
 ../Validations/ValidationsImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Validations/ValidationsImplementation.h
 
@@ -29,14 +35,16 @@ ProblemSolutionDef.h
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Testing/TestingDef.h
 ../ProblemSolution/ProblemSolutionImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/ProblemSolution/ProblemSolutionImplementation.h
+../DataSets/DataSetsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataSets/DataSetsImplementation.h
 
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Testing/TestingImplementation.h
 TestingDef.h
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Testing/TestingDef.h
 
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Validations/ValidationsDef.h
-../DataStructures/DataStructures.h
-/media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/DataStructures/DataStructures.h
+stdlib.h
+-
 
 /media/cigan/Personal/Projects/C-projects-tests/MaximumSumSequence/Validations/ValidationsImplementation.h
 ValidationsDef.h

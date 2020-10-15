@@ -14,19 +14,21 @@ stdlib.h
 assert.h
 -
 
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
-../CoreDependencies/CoreDependencies.h
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/CoreDependencies/CoreDependencies.h
-
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IODef.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsDef.h
 ../DataStructures/DataStructures.h
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
 
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IOImplementation.h
-IODef.h
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IODef.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsImplementation.h
+DataSetsDef.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/ProblemSolution/ProblemSolutionDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/CoreDependencies/CoreDependencies.h
+../DataStructures/DataStructures.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
 ../Validations/ValidationsImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/Validations/ValidationsImplementation.h
 
@@ -39,8 +41,8 @@ ProblemSolutionDef.h
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/ProblemSolution/ProblemSolutionImplementation.h
 ../UnitTestingSupport/UnitTestingSupportImplementation.h
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/UnitTestingSupport/UnitTestingSupportImplementation.h
-../IO/IOImplementation.h
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/IO/IOImplementation.h
+../DataSets/DataSetsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataSets/DataSetsImplementation.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/Testing/TestingImplementation.h
 TestingDef.h
@@ -57,10 +59,8 @@ UnitTestingSupportDef.h
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/UnitTestingSupport/UnitTestingSupportDef.h
 
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/Validations/ValidationsDef.h
-../CoreDependencies/CoreDependencies.h
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/CoreDependencies/CoreDependencies.h
-../DataStructures/DataStructures.h
-/media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/DataStructures/DataStructures.h
+stdlib.h
+-
 
 /media/cigan/Personal/Projects/C-projects-tests/SumOfOddDigits/Validations/ValidationsImplementation.h
 ValidationsDef.h
