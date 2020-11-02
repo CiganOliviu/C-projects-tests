@@ -1,0 +1,3 @@
+/media/cigan/Personal/Projects/C-projects-tests/GenerateAlternatedBinaryMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/cigan/Personal/Projects/C-projects-tests/GenerateAlternatedBinaryMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/cigan/Personal/Projects/C-projects-tests/GenerateAlternatedBinaryMatrix/cmake-build-debug/CMakeFiles/GenerateAlternatedBinaryMatrix.dir
