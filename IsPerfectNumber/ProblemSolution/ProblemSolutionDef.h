@@ -5,8 +5,7 @@
 #ifndef PROBLEMSOLVINGARHITECTURE_PROBLEMSOLUTIONDEF_H
 #define PROBLEMSOLVINGARHITECTURE_PROBLEMSOLUTIONDEF_H
 
-#include "../Validations/ValidationsImplementation.h"
-#include "../DataStructures/DataStructures.h"
+#include "../CoreDependencies/CoreDependencies.h"
 
 int GetSumOfDivisors(unsigned int Number);
 

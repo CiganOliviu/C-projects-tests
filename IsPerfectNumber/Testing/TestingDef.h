@@ -6,7 +6,6 @@
 #define PROBLEMSOLVINGARHITECTURE_TESTINGDEF_H
 
 #include "../ProblemSolution/ProblemSolutionImplementation.h"
-#include "../UnitTestingSupport/UnitTestingSupportImplementation.h"
 
 void Test_GetSumOfDivisors_();
 void Test_IsNumberPerfect_();
