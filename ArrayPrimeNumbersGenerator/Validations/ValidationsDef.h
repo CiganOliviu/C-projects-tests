@@ -6,6 +6,6 @@
 #define ARRAYPRIMENUMBERSGENERATOR_VALIDATIONSDEF_H
 
 void ValidateValue(int Value);
-void ValidatePrimeValue(int Value);
+void ValidatePossiblePrimeValue(int Value);
 
 #endif //ARRAYPRIMENUMBERSGENERATOR_VALIDATIONSDEF_H

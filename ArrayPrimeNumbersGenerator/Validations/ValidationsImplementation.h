@@ -13,7 +13,7 @@ void ValidateValue(int Value) {
         exit(1);
 }
 
-void ValidatePrimeValue(int Value) {
+void ValidatePossiblePrimeValue(int Value) {
 
     if (Value <= 1)
         exit(1);

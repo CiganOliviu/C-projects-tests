@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/CoreDependencies/CoreDependencies.h
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/ProblemSolution/ProblemSolutionDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/CoreDependencies/CoreDependencies.h
+../Validations/ValidationsImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Validations/ValidationsImplementation.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/ProblemSolution/ProblemSolutionImplementation.h
+ProblemSolutionDef.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/ProblemSolution/ProblemSolutionDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Testing/TestingDef.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/CoreDependencies/CoreDependencies.h
+../ProblemSolution/ProblemSolutionImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/ProblemSolution/ProblemSolutionImplementation.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Testing/TestingImplementation.h
+TestingDef.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Testing/TestingDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Validations/ValidationsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Validations/ValidationsImplementation.h
+ValidationsDef.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Validations/ValidationsDef.h
+
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/main.c
+Testing/TestingImplementation.h
+/media/cigan/Personal/Projects/C-projects-tests/CheckNumberChanges/Testing/TestingImplementation.h
+

@@ -12,6 +12,7 @@ void Test_IsPrime_() {
     assert(IsPrime(13) == SUCCESS_CODE);
     assert(IsPrime(26) == FAIL_CODE);
     assert(IsPrime(97) == SUCCESS_CODE);
+    assert(IsPrime(2) == SUCCESS_CODE);
 }
 
 void Test_GetPrimeNumber_() {

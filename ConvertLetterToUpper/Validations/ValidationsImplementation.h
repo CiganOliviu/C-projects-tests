@@ -1,0 +1,16 @@
+//
+// Created by cigan on 15.10.2020.
+//
+
+#ifndef PROBLEMSOLVINGARHITECTURE_VALIDATIONSIMPLEMENTATION_H
+#define PROBLEMSOLVINGARHITECTURE_VALIDATIONSIMPLEMENTATION_H
+
+#include "ValidationsDef.h"
+
+void ValidateNumber(int Number) {
+
+    if (Number <= 0)
+        FAIL_EXIT;
+}
+
+#endif //PROBLEMSOLVINGARHITECTURE_VALIDATIONSIMPLEMENTATION_H

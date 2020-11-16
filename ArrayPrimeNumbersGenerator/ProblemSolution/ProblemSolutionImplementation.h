@@ -9,10 +9,7 @@
 
 int IsPrime(int Number) {
 
-    ValidatePrimeValue(Number);
-
-    if (Number == 2)
-        return SUCCESS_CODE;
+    ValidatePossiblePrimeValue(Number);
 
     for (int Divisor = 2; Divisor <= Number / 2; Divisor++)
         if (Number % Divisor == 0)
@@ -20,6 +17,7 @@ int IsPrime(int Number) {
 
     return SUCCESS_CODE;
 }
+
 int GetPrimeNumber(int FactorOfMultiplication) {
 
     ValidateValue(FactorOfMultiplication);
