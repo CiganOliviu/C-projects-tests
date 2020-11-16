@@ -9,7 +9,10 @@
 #include "../Validations/ValidationsImplementation.h"
 #include "../DataStructures/DataStructures.h"
 
+int GetMinValueFromOneDimensionalArray(OneDimensionalArrayType Array);
 int GetMinValuePositionOneDimensionalArray(OneDimensionalArrayType Array);
+
+int GetMaxValueFromOneDimensionalArray(OneDimensionalArrayType Array);
 int GetMaxValuePositionOneDimensionalArray(OneDimensionalArrayType Array);
 
 void SwapElements(int * ParameterOne, int * ParameterTwo);

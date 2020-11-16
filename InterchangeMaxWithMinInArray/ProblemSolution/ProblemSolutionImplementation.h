@@ -7,42 +7,64 @@
 
 #include "ProblemSolutionDef.h"
 
+int GetMinValueFromOneDimensionalArray(OneDimensionalArrayType Array) {
+
+    ValidateValue(Array.Length);
+
+    int MinValue;
+
+    MinValue = Array.OneDimensionalArray[0];
+
+    for (int iterator = 0; iterator < Array.Length; ++iterator)
+        if (MinValue > Array.OneDimensionalArray[iterator])
+            MinValue = Array.OneDimensionalArray[iterator];
+
+    return MinValue;
+}
+
 int GetMinValuePositionOneDimensionalArray(OneDimensionalArrayType Array) {
 
     ValidateValue(Array.Length);
 
-    int MinValue, Result;
+    int MinValue;
 
-    MinValue = Array.OneDimensionalArray[0];
-    Result = 0;
+    MinValue = GetMinValueFromOneDimensionalArray(Array);
 
     for (int iterator = 0; iterator < Array.Length; iterator++)
-       if (MinValue > Array.OneDimensionalArray[iterator]) {
+       if (MinValue == Array.OneDimensionalArray[iterator])
+           return iterator;
 
-            MinValue = Array.OneDimensionalArray[iterator];
-            Result = iterator;
-       }
+   return -1;
+}
 
-    return Result;
+int GetMaxValueFromOneDimensionalArray(OneDimensionalArrayType Array) {
+
+    ValidateValue(Array.Length);
+
+    int MaxValue;
+
+    MaxValue = Array.OneDimensionalArray[0];
+
+    for (int iterator = 0; iterator < Array.Length; ++iterator)
+        if (MaxValue < Array.OneDimensionalArray[iterator])
+            MaxValue = Array.OneDimensionalArray[iterator];
+
+    return MaxValue;
 }
 
 int GetMaxValuePositionOneDimensionalArray(OneDimensionalArrayType Array) {
 
     ValidateValue(Array.Length);
 
-    int MaxValue, Result;
+    int MaxValue;
 
-    MaxValue = Array.OneDimensionalArray[0];
-    Result = 0;
+    MaxValue = GetMaxValueFromOneDimensionalArray(Array);
 
     for (int iterator = 0; iterator < Array.Length; iterator++)
-     if (MaxValue < Array.OneDimensionalArray[iterator]) {
+        if (MaxValue == Array.OneDimensionalArray[iterator])
+            return iterator;
 
-         MaxValue = Array.OneDimensionalArray[iterator];
-         Result = iterator;
-     }
-
-    return Result;
+    return -1;
 }
 
 void SwapElements(int * ParameterOne, int * ParameterTwo) {
