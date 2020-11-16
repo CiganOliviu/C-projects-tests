@@ -9,6 +9,13 @@
 #include "../Validations/ValidationsImplementation.h"
 #include "../DataStructures/DataStructures.h"
 
+int IsNotOdd(int Number);
+
+struct ElementsIndices SetupMatrixElementIndices(int Line, int Column);
+
+void AssignValueToOddMatrixElement(struct MatrixType * Array, struct ElementsIndices Indices);
+void AssignValueToEvenMatrixElement(struct MatrixType * Array, struct ElementsIndices Indices);
+
 int IsOdd(int Number);
 struct MatrixType GenerateMatrix(int Length);
 

@@ -30,7 +30,6 @@ OneDimensionalArrayType ConvertToUpper(OneDimensionalArrayType Array) {
     OneDimensionalArrayType ResultArray;
 
     ResultArray = Array;
-
     ResultArray.Length -= 1;
 
     for (int iterator = 1; iterator < ResultArray.Length; iterator++)

@@ -13,4 +13,10 @@ struct MatrixType {
     int Matrix[STANDARD_SIZE][STANDARD_SIZE];
 };
 
+struct ElementsIndices {
+
+    int LineIndex;
+    int ColumnIndex;
+};
+
 #endif //PROBLEMSOLVINGARHITECTURE_DATASTRUCTURES_H
