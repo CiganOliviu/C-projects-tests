@@ -7,9 +7,18 @@
 
 #include "ProblemSolutionDef.h"
 
+int GetLastDigit(int Number) {
+
+    int Digit;
+
+    Digit = Number % 10;
+
+    return Digit;
+}
+
 int GetSumOfDigitsForNumber(int Number) {
 
-    int Digit, Sum;
+    int Sum;
 
     Sum = 0;
 
@@ -17,8 +26,8 @@ int GetSumOfDigitsForNumber(int Number) {
 
     while (Number != 0) {
 
-        Digit = Number % 10;
-        Sum += Digit;
+        Sum += GetLastDigit(Number);
+
         Number /= 10;
     }
 

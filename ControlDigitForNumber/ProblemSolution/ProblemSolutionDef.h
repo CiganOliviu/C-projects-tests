@@ -7,6 +7,7 @@
 
 #include "../Validations/ValidationsImplementation.h"
 
+int GetLastDigit(int Number);
 int GetSumOfDigitsForNumber(int Number);
 
 int GetControlDigitForNumber(int Number);
